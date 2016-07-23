@@ -1,0 +1,51 @@
+header {
+	border: #4d75b3 solid 1px; 
+}
+
+.inline {
+	display: inline;
+	padding-left: 25px;
+}
+
+.disabled {
+	color: grey;
+}
+
+a .disabled {
+	color: purple;
+}
+
+.active {
+	color: yellow;
+}
+
+.redtext {
+	color: red;
+}
+
+.redbackground {
+	background-color: red;
+}
+
+.bluetext {
+	color: blue;
+}
+
+.bluebackground {
+	background-color: blue;
+}
+
+.promo {
+	color: gold;
+	font-weight: 900;
+}
+
+.childofgrandparent {
+	border: 1px solid #4d75b3;
+	border-radius: 10px;
+	display: inline;
+}
+
+input {
+	font-size: 25px;
+}
